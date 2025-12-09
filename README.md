@@ -12,6 +12,6 @@ Leveraging 3 years of graphic design expertise and 1 year of full stack developm
 - **GitHub:** [syam-fh](https://github.com/syam-fh)
 - **Homepage:** [syamfarijal](https://syamfarijal.vercel.app)
 
-## Tech Stack & Getting Started
+## Tech Stack
 
-This project is built with **Next.js**, **Tailwind CSS**, and **Shadcn UI**.
+**Next.js**, **Tailwind CSS**, **Shadcn UI**, **Ant Design**, **Supabase**, **MongoDB**, **PostgreSQL**, **MySQL**
