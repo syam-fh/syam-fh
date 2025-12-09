@@ -10,7 +10,7 @@ Leveraging 3 years of graphic design expertise and 1 year of full stack developm
 - **Email:** [syam.fh@proton.me](mailto:syam.fh@proton.me)
 - **LinkedIn:** [syamfh](https://linkedin.com/in/syamfh)
 - **GitHub:** [syam-fh](https://github.com/syam-fh)
-- **Homepage:** [syamfarijal.site](https://syamfarijal.site)
+- **Homepage:** [syamfarijal.site](https://syamfarijal.vercel.app)
 
 ## Tech Stack & Getting Started
 
